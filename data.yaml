@@ -1,0 +1,6 @@
+train: dataset/train/images 
+val: dataset/valid/images 
+test: dataset/test/images
+
+nc: 7 
+names: [DISLIKE,GREETING,LIKE,NEUTRAL,SAD,SMILE,SPOCK]
